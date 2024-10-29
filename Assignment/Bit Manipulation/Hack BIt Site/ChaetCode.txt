@@ -1,0 +1,2 @@
+http://graphics.stanford.edu/~seander/bithacks.html
+this site is about cheat code using Bit Manipulation
